@@ -1,0 +1,16 @@
+.Product {
+    background-color: aliceblue;
+    width: 260px;
+    height: inherit;
+    color: rgb(0, 0, 0);
+    border-left: 2px solid rgba(176, 176, 180, 0.345);
+    border-bottom: 2px solid rgba(176, 176, 180, 0.345);
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+}
+
+p {
+    text-align: center;
+}

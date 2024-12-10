@@ -1,0 +1,66 @@
+.converter {
+    width: 40vw;
+    height: 50vh;
+    margin: 10px;
+    padding: 10px 10px;
+    background-color: rgba(240, 248, 255, 0.071);
+    color: black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+}
+
+.container {
+    width: 85%;
+    height: 30%;
+    padding: 0px 15px;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    font-weight: 300;
+    font-size: large;
+    color: rgb(75, 75, 75);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.val {
+    height: 22px;
+    padding-left: 10px;
+}
+
+.value {
+    text-align: start;
+}
+
+.type {
+    text-align: end;
+}
+
+.swap {
+    width: 15%;
+    height: 10%;
+    margin-top: -15px;
+    margin-bottom: -15px;
+    z-index: 2;
+    font-size: large;
+    background-color: rgb(99, 89, 248);
+    border: 3px solid whitesmoke;
+    color: rgb(255, 255, 255);
+    border-radius: 8px;
+}
+
+.btn-converter {
+    width: 90%;
+    height: 20%;
+    margin: 10px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(40, 40, 242);
+    color: rgb(255, 255, 255);
+    font-size:x-large;
+    font-family: sans-serif;
+}

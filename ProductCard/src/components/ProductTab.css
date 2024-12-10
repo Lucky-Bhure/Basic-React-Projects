@@ -1,0 +1,10 @@
+.ProductTab {
+    background-color: rgba(56, 56, 56, 0.329);
+    width: 80vw;
+    display: flex;
+    padding: 2rem 3rem;
+    justify-content: space-evenly;
+    border-radius: 25px;
+    border-left: 2px solid rgba(255, 255, 255, 0.214);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.214);
+}
